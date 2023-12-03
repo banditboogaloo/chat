@@ -1,0 +1,20 @@
+#admin-panel {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+#admin-panel h2 {
+    color: #333;
+}
+
+#admin-panel label {
+    display: block;
+    margin-top: 10px;
+}
+
+#admin-panel input,
+#admin-panel button {
+    margin-top: 10px;
+}
